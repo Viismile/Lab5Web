@@ -24,6 +24,7 @@ Hasilnya:
 ![SS2-3](https://user-images.githubusercontent.com/56240078/115953648-f698ba80-a516-11eb-98b5-f32e8d732de7.jpg)
 
 Hasilnya:
+
 ![SS2-4](https://user-images.githubusercontent.com/56240078/115953650-f7315100-a516-11eb-9fbf-f2c6932dd440.jpg)
 
 ### Pemakaian Prompt
@@ -42,6 +43,7 @@ Hasilnya:
 ![SS2-9](https://user-images.githubusercontent.com/56240078/115953655-fb5d6e80-a516-11eb-865c-3a5645b2230b.jpg)
 
 Hasilnya ketika tombol Aritmetic ditekan:
+
 ![SS2-10](https://user-images.githubusercontent.com/56240078/115953656-fbf60500-a516-11eb-861e-3e88137b2769.jpg)
 
 ### Seleksi Kondisi If-Else
@@ -64,6 +66,7 @@ Hasilnya:
 ![SS2-17](https://user-images.githubusercontent.com/56240078/115953665-01534f80-a517-11eb-957e-e1d60fe1d8c8.jpg)
 
 Hasilnya:
+
 ![SS2-18](https://user-images.githubusercontent.com/56240078/115953666-02847c80-a517-11eb-8c38-b3220c629d6a.jpg)
 
 ### Form Button
@@ -78,6 +81,7 @@ Hasilnya:
 ![SS2-21](https://user-images.githubusercontent.com/56240078/115953669-057f6d00-a517-11eb-97fa-1cd1cfa26aef.jpg)
 
 Hasilnya:
+
 ![SS2-22](https://user-images.githubusercontent.com/56240078/115953671-07493080-a517-11eb-8faf-098552b5dbdb.jpg)
 
 # Pertanyaan dan Tugas
